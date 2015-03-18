@@ -5,3 +5,5 @@ Git is a distributed version control system.
 Git is free software.
 test/git checkout
 test/index
+test/git/1
+test/git/2
